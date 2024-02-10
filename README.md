@@ -2,7 +2,7 @@
 Welcome to back my all friends 
  <p align="center">  
   <a href="">
-    <img alt="MAGSI" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="MAGSI" width="600" height="350" src="https://i.imgur.com">
   </a>
 </p>
 
